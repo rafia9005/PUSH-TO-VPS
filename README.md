@@ -1,1 +1,6 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+
+![Black Technology LinkedIn Banner](https://github.com/rafia9005/rafia9005/assets/70046808/0e185069-615e-450b-a01f-89de37d25c30)
+
+# Project Portal Berita Masyarakat
+I am a Full-Stack Developer at [RR.TECH](https://ngodingsantuy.site), I am a student from SMKN 6 Malang who has had the dream of becoming a software engineer since grade 9 middle school
+
