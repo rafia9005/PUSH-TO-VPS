@@ -4,3 +4,16 @@
 # Project Portal Berita Masyarakat
 I am a Full-Stack Developer at [RR.TECH](https://ngodingsantuy.site), I am a student from SMKN 6 Malang who has had the dream of becoming a software engineer since grade 9 middle school
 
+```bash
+git clone https://github.com/rafia9005/PUSH-TO-VPS.git
+```
+```bash
+cd PUSH-TO-VPS
+```
+```bash
+composer install
+```
+```bash
+php artisan key:generate
+php artisan migrate
+```
